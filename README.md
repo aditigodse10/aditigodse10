@@ -17,7 +17,7 @@
  
 - 🏆 Best Projects so far
   1. App Development : https://github.com/aditigodse10/CometChatEmpowHer
-  2. WordPress : https://github.com/aditigodse10/WP_BhorXAi
+  2. WordPress : https://github.com/aditigodse10/WP_BhorXAi , https://drive.google.com/file/d/1vTSQKKBzOZKuo0DLpe8_XE9aHvZy31np/view?usp=sharing
   3. Web Development : https://travel-project-aditi.netlify.app
   4. ML Classifiers : https://github.com/aditigodse10/Breast-Cancer-Detector-ML
      
