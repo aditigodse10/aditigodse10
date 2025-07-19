@@ -26,6 +26,7 @@
 ### 📰 WordPress  
 - [WP_BhorXAi – AI Business Site (GitHub)](https://github.com/aditigodse10/WP_BhorXAi)  
 - [Watch WP_BhorXAi Website Demo](https://drive.google.com/file/d/1vTSQKKBzOZKuo0DLpe8_XE9aHvZy31np/view?usp=sharing)
+- [ngrox site](https://fad5e7687740.ngrok-free.app)
 
 ### 🧠 Machine Learning – Classifiers  
 [Breast Cancer Detector using ML Models](https://github.com/aditigodse10/Breast-Cancer-Detector-ML)
