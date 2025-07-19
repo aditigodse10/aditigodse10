@@ -15,11 +15,21 @@
   1. Open-source projects
   2. Web and mobile app development
  
-- 🏆 Best Projects so far
-  1. App Development : https://github.com/aditigodse10/CometChatEmpowHer
-  2. WordPress : https://github.com/aditigodse10/WP_BhorXAi , https://drive.google.com/file/d/1vTSQKKBzOZKuo0DLpe8_XE9aHvZy31np/view?usp=sharing
-  3. Web Development : https://travel-project-aditi.netlify.app
-  4. ML Classifiers : https://github.com/aditigodse10/Breast-Cancer-Detector-ML
+- ## 🏆 Best Projects So Far
+
+### 📱 App Development  
+[CometChatEmpowHer – Chat App for Women Empowerment](https://github.com/aditigodse10/CometChatEmpowHer)
+
+### 🌐 Web Development  
+[Travel Destination Website (Deployed on Netlify)](https://travel-project-aditi.netlify.app)
+
+### 📰 WordPress  
+- [WP_BhorXAi – AI Business Site (GitHub)](https://github.com/aditigodse10/WP_BhorXAi)  
+- [Watch WP_BhorXAi Website Demo](https://drive.google.com/file/d/1vTSQKKBzOZKuo0DLpe8_XE9aHvZy31np/view?usp=sharing)
+
+### 🧠 Machine Learning – Classifiers  
+[Breast Cancer Detector using ML Models](https://github.com/aditigodse10/Breast-Cancer-Detector-ML)
+
      
 - 📫 How to reach me
   
