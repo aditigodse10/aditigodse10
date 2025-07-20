@@ -13,8 +13,7 @@
 
 - 📱 **App:** [CometChatEmpowHer – Women’s Chat App](https://github.com/aditigodse10/CometChatEmpowHer)  
 - 🌐 **Web:** [Travel Destination Site (Netlify)](https://travel-project-aditi.netlify.app)  
-- 📰 **WordPress:** [BhorXAi Business Site](https://github.com/aditigodse10/WP_BhorXAi)  
-  [Video Demo](https://drive.google.com/file/d/1vTSQKKBzOZKuo0DLpe8_XE9aHvZy31np/view?usp=sharing) | [Ngrok (Temp)](https://fad5e7687740.ngrok-free.app)
+- 📰 **WordPress:** [BhorXAi Business Site](https://drive.google.com/file/d/1vTSQKKBzOZKuo0DLpe8_XE9aHvZy31np/view?usp=sharing) | **Open Source PR:** [Sanitize Callback Fix @10up](https://github.com/10up/insert-special-characters/pull/290) — WordPress sanitization.
 
 - 🧠 **ML:** [Breast Cancer Detector](https://github.com/aditigodse10/Breast-Cancer-Detector-ML)
 
